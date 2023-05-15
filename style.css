@@ -66,6 +66,7 @@
     align-items: center;
     margin: 0 1.5rem;
     width: 2rem;
+    margin-top: 10rem;
   }
 
   .icons {
@@ -107,6 +108,10 @@ body {
   line-height: 20px;
   color: #fff;
   font-family: "Inter", sans-serif;
+}
+
+.nav-logo {
+  text-decoration: none;
 }
 
 .nav {
@@ -192,6 +197,7 @@ h1 {
   flex-direction: column;
   width: 36%;
   margin-left: 3rem;
+  margin-top: 10rem;
 }
 
 .footer-icons > li {
