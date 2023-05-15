@@ -32,7 +32,7 @@
 
 ## Live Demo <a name="Live-demo"></a>
 
-<a >
+[My Portfolio](https://h-ramalan.github.io/hamza.github.io/)
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -57,7 +57,7 @@ In order to run this project you need:
 1.  Clone the Repo with:
 
 ```
-git clone https://github.com/H-Ramalan/Portfolio-Desktop.git
+git clone https://h-ramalan.github.io/hamza.github.io/
 ```
 
 2. switch to the cloned directory
